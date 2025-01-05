@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone 15 Pro Giveaway</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #2C3E50;
+            color: #ECF0F1;
+            padding: 40px;
+            font-size: 30px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+
+        .content {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 30px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 30px;
+        }
+
+        .content ul li {
+            font-size: 18px;
+            margin: 15px 0;
+            line-height: 1.8;
+        }
+
+        .content ul li span {
+            font-weight: 600;
+            color: #2980B9;
+        }
+
+        .image-container {
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .button {
+            background-color: #E74C3C;
+            color: #fff;
+            font-size: 18px;
+            padding: 12px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            transition: background-color 0.3s ease;
+            font-weight: 600;
+        }
+
+        .button:hover {
+            background-color: #C0392B;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 16px;
+            color: #7f8c8d;
+            text-align: center;
+        }
+
+        .footer a {
+            color: #2980B9;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        Participe do sorteio e ganhe um iPhone 15 Pro!
+    </div>
+
+    <div class="content">
+        <ul>
+            <li><span>Preencha o formulário</span> com seus dados e e-mail para receber seu iPhone.</li>
+            <li><span>Resida no Brasil</span> para ser elegível para o sorteio.</li>
+            <li><span>Boa sorte!</span> Não perca essa oportunidade incrível.</li>
+        </ul>
+
+        <div class="image-container">
+            <img src="https://arabgamerz.com/wp-content/uploads/2024/08/%D9%87%D9%84-%D8%AC%D9%87%D8%A7%D8%B2-iPhone-15-Pro-Max-%D9%87%D9%88-%D8%A7%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8%D8%9F-%D8%A5%D9%84%D9%8A%D9%83-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81.jpg" alt="iPhone 15 Pro">
+        </div>
+
+        <div class="button-container">
+            <a href="https://smrturl.co/a/s8ea8748941/1372?s1=" class="button">Clique aqui para participar</a>
+        </div>
+
+        <div class="footer">
+            <p>Este sorteio é exclusivo para residentes no Brasil. <a href="#">Termos e condições</a></p>
+        </div>
+    </div>
+</body>
+</html>
